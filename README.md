@@ -6,6 +6,4 @@
 
   ##
  
-<div>
-  ![Snake animation](https://github.com/NiellCast
-</div>
+
